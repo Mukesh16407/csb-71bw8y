@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACE,QAAS,CACT,SACF,CACA,KACE,WAAY,CACZ,YAAa,CACb,iBACF,CACA,eACE,cAAe,CACf,SACF","file":"main.503ad411.chunk.css","sourcesContent":["* {\n  margin: 0;\n  padding: 0;\n}\n.map {\n  width: 100vh;\n  height: 100vh;\n  position: relative;\n}\n.location-icon {\n  font-size: 2rem;\n  color: red;\n}\n"]}
